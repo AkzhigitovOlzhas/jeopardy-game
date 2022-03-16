@@ -1,0 +1,23 @@
+.title {
+  font-size: 20px;
+}
+
+.answerBlock {
+  margin-top: 20px;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+}
+
+.wrongAnswerBlock {
+  background: #d82148;
+}
+
+.correctAnswerBlock {
+  background: #6ebf8b;
+}
+
+.sendQuestionBlock {
+  margin-top: 20px;
+}

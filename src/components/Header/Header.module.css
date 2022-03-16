@@ -1,0 +1,20 @@
+.header {
+  width: 100%;
+  min-height: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.link {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  background: #151d3b;
+}
+.activeLink {
+  background: #D82148;
+}
